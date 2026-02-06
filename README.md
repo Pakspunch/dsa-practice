@@ -1,2 +1,11 @@
-# dsa-practice
-Back to speed with DSA and python
+DSA Practice Repository
+
+this repository contains my daily DSA practice using Python
+
+Focus Areas:
+- Arrays
+- Hash Maps
+- Strings
+- Core problem-solving patterns
+
+Problems are added daily as a part of a structured 30-day comeback plan
