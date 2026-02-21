@@ -7,5 +7,3 @@ Focus Areas:
 - Hash Maps
 - Strings
 - Core problem-solving patterns
-
-Problems are added daily as a part of a structured 30-day comeback plan
