@@ -1,6 +1,9 @@
 """Given an integer array nums of unique elements, return all possible subsets (the power set).
 
-The solution set must not contain duplicate subsets. Return the solution in any order."""
+The solution set must not contain duplicate subsets. Return the solution in any order.
+
+In subsets you always backtrack the last element added — the one at the end of current_set. 
+pop() removes the last element by default."""
 
 def subsets(input_set):
     result_set = []
